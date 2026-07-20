@@ -15,6 +15,7 @@ const PracticeModule = ({ verseId }) => {
   const [filledIndices, setFilledIndices] = useState([]);
   const [options, setOptions] = useState([]);
 
+  const [stage2Input, setStage2Input] = useState('');
   // Stage 3 State
   const [showAnswer, setShowAnswer] = useState(false);
 
@@ -27,6 +28,7 @@ const PracticeModule = ({ verseId }) => {
       setShowKor(false);
       setShowGrammar(false);
       setShowAnswer(false);
+      setStage2Input('');
     }
   }, [verseId]);
 
@@ -129,11 +131,21 @@ const PracticeModule = ({ verseId }) => {
     }).join(' ');
 
     return (
-      <div className="animate-fade-in">
-        <p className="text-gray-900 text-2xl font-mono leading-relaxed mb-8 tracking-widest break-words">
-          {hintedText}
-        </p>
-        <button onClick={handleCompleteStage} className="w-full bg-blue-600 text-white font-bold py-3 px-4 rounded-xl mt-4">
+      <div className="animate-fade-in flex flex-col gap-4">
+        <div className="bg-gray-50 p-4 rounded-xl border border-gray-200">
+          <p className="text-gray-900 text-lg font-mono leading-relaxed tracking-widest break-words select-text">
+            {hintedText}
+          </p>
+        </div>
+        
+        <textarea
+          value={stage2Input}
+          onChange={(e) => setStage2Input(e.target.value)}
+          placeholder="여기에 직접 텍스트를 입력하며 연습해 보세요..."
+          className="w-full h-32 p-4 rounded-xl border-2 border-blue-100 focus:border-blue-500 focus:outline-none resize-none text-gray-800 text-lg"
+        />
+        
+        <button onClick={handleCompleteStage} className="w-full bg-blue-600 text-white font-bold py-3 px-4 rounded-xl mt-2 hover:bg-blue-700 transition-colors">
           3단계로 넘어가기 →
         </button>
       </div>
