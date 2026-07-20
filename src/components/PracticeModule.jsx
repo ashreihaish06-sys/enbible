@@ -14,6 +14,7 @@ const PracticeModule = ({ verseId }) => {
   const [maskedIndices, setMaskedIndices] = useState([]);
   const [filledIndices, setFilledIndices] = useState([]);
   const [options, setOptions] = useState([]);
+  const [selectedBlankIndex, setSelectedBlankIndex] = useState(null);
 
   const [stage2Input, setStage2Input] = useState('');
   // Stage 3 State
@@ -44,6 +45,7 @@ const PracticeModule = ({ verseId }) => {
     const mIndices = selected.map(item => item.index);
     setMaskedIndices(mIndices);
     setFilledIndices([]);
+    setSelectedBlankIndex(mIndices.length > 0 ? mIndices[0] : null);
     
     // 버튼용 옵션 (랜덤 섞기)
     const opts = selected.map(item => ({ index: item.index, text: item.word }));
@@ -51,11 +53,16 @@ const PracticeModule = ({ verseId }) => {
   };
 
   const handleOptionClick = (opt) => {
-    // 가장 먼저 채워야 할 빈칸 찾기
-    const nextEmptyIndex = maskedIndices.find(idx => !filledIndices.includes(idx));
-    if (nextEmptyIndex === opt.index) {
+    // 선택된 빈칸이 없으면 가장 먼저 나오는 빈칸을 대상으로 함
+    const targetIndex = selectedBlankIndex !== null ? selectedBlankIndex : maskedIndices.find(idx => !filledIndices.includes(idx));
+    
+    if (targetIndex === opt.index) {
       // 정답
-      setFilledIndices([...filledIndices, opt.index]);
+      const newFilled = [...filledIndices, opt.index];
+      setFilledIndices(newFilled);
+      // 다음 빈칸 찾기
+      const nextEmpty = maskedIndices.find(idx => !newFilled.includes(idx));
+      setSelectedBlankIndex(nextEmpty !== undefined ? nextEmpty : null);
     } else {
       // 오답 (틀림 시각 효과는 생략하고 넘어감)
     }
@@ -80,12 +87,22 @@ const PracticeModule = ({ verseId }) => {
     const isComplete = maskedIndices.length > 0 && maskedIndices.every(idx => filledIndices.includes(idx));
     return (
       <div className="animate-fade-in">
-        <p className="text-gray-900 text-xl font-medium leading-relaxed mb-8 flex flex-wrap gap-1">
+        <p className="text-gray-900 text-xl font-medium leading-relaxed mb-8 flex flex-wrap gap-x-1 gap-y-2 items-center">
           {words.map((word, idx) => {
             if (maskedIndices.includes(idx) && !filledIndices.includes(idx)) {
-              return <span key={idx} className="inline-block w-16 h-8 bg-gray-200 rounded animate-pulse"></span>;
+              return (
+                <button 
+                  key={idx} 
+                  onClick={() => setSelectedBlankIndex(idx)}
+                  className={`inline-block w-16 h-8 rounded transition-all border-b-4 ${
+                    selectedBlankIndex === idx 
+                      ? 'bg-blue-100 border-blue-500 shadow-inner ring-2 ring-blue-300' 
+                      : 'bg-gray-200 border-gray-400 hover:bg-gray-300'
+                  }`}
+                />
+              );
             }
-            return <span key={idx}>{word}</span>;
+            return <span key={idx} className={maskedIndices.includes(idx) ? 'text-blue-600 font-bold' : ''}>{word}</span>;
           })}
         </p>
         
