@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "ref": "Genesis 1:1",
+    "nivText": "In the beginning God created the heavens and the earth.",
+    "korText": "태초에 하나님이 천지를 창조하시니라",
+    "grammarTips": "• created: 과거시제(-ed)\n• In the beginning: 시간을 나타내는 문두 전치사구"
+  },
+  {
+    "id": 2,
+    "ref": "Psalm 23:1",
+    "nivText": "The Lord is my shepherd, I lack nothing.",
+    "korText": "여호와는 나의 목자시니 내게 부족함이 없으리로다",
+    "grammarTips": "• is: 2형식 연결동사 (주어+동사+보어)\n• nothing: 부정대명사 ('I do not lack anything'과 동일)"
+  },
+  {
+    "id": 3,
+    "ref": "Jeremiah 29:11",
+    "nivText": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.",
+    "korText": "여호와의 말씀이니라 너희를 향한 나의 생각을 내가 아나니 평안이요 재앙이 아니니라 너희에게 희망과 미래를 주는 것이니라",
+    "grammarTips": "• the plans [that/which] I have: 목적격 관계대명사 생략\n• plans to prosper / to give: to부정사가 명사(plans)를 수식하는 형용사적 용법\n• not to harm: to부정사의 부정 (not + to V)"
+  },
+  {
+    "id": 4,
+    "ref": "John 3:16",
+    "nivText": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+    "korText": "하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 그를 믿는 자마다 멸망하지 않고 영생을 얻게 하려 하심이라",
+    "grammarTips": "• so loved ... that he gave: so ~ that 구문 (너무 ~해서 ...하다)\n• whoever believes: 복합관계대명사 (=anyone who, ~하는 사람은 누구나)\n• not perish but have: not A but B 구문 (A가 아니라 B이다)"
+  },
+  {
+    "id": 5,
+    "ref": "Romans 8:28",
+    "nivText": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+    "korText": "우리가 알거니와 하나님을 사랑하는 자 곧 그의 뜻대로 부르심을 입은 자들에게는 모든 것이 합력하여 선을 이루느니라",
+    "grammarTips": "• know that ~: 목적어절을 이끄는 명사절 접속사 that\n• those who love: ~하는 사람들 (주격 관계대명사 who)\n• have been called: 현재완료 수동태 (have + been + p.p.)"
+  },
+  {
+    "id": 6,
+    "ref": "Philippians 4:13",
+    "nivText": "I can do all this through him who gives me strength.",
+    "korText": "내게 능력 주시는 자 안에서 내가 모든 것을 할 수 있느니라",
+    "grammarTips": "• him who gives: 선행사(him)를 수식하는 주격 관계대명사 who\n• gives me strength: 4형식 구조 (give + 간접목적어 me + 직접목적어 strength)"
+  },
+  {
+    "id": 7,
+    "ref": "Proverbs 3:5-6",
+    "nivText": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+    "korText": "너는 마음을 다하여 여호와를 신뢰하고 네 명철을 의지하지 말라 너는 범사에 그를 인정하라 그리하면 네 길을 지도하시리라",
+    "grammarTips": "• 명령문 + and: ~하라, 그러면 ...할 것이다\n• make your paths straight: 5형식 구조 (make + 목적어 + 목적격보어 형용사 straight)"
+  },
+  {
+    "id": 8,
+    "ref": "Joshua 1:9",
+    "nivText": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+    "korText": "내가 네게 명령한 것이 아니냐 강하고 담대하라 두려워하지 말며 놀라지 말라 네가 어디로 가든지 네 하나님 여호와가 너와 함께 하느니라 하시니라",
+    "grammarTips": "• Have I not ...?: 부정의문문 (내가 명령하지 아니하였느냐?)\n• be discouraged: 감정을 나타내는 수동태 (낙심하게 되다)\n• wherever you go: 복합관계부사 (~하는 어디든지)"
+  },
+  {
+    "id": 9,
+    "ref": "Isaiah 41:10",
+    "nivText": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+    "korText": "두려워하지 말라 내가 너와 함께 함이라 놀라지 말라 내가 네 하나님이 됨이라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라",
+    "grammarTips": "• for I am with you: 이유 접속사 for (~왜냐하면 ~이기 때문이다)\n• be dismayed: 감정을 나타내는 수동태\n• strengthen ..., help ..., uphold ...: 조동사 will 뒤 동사원형 병렬구조"
+  },
+  {
+    "id": 10,
+    "ref": "Psalm 46:1",
+    "nivText": "God is our refuge and strength, an ever-present help in trouble.",
+    "korText": "하나님은 우리의 피난처시요 힘이시니 환난 중에 만날 큰 도움이시라",
+    "grammarTips": "• refuge and strength, an ever-present help: 쉼표(,) 뒤의 명사구가 앞의 보어를 부연 설명하는 동격 구조\n• ever-present: 항상 계시는 (형용사구)"
+  },
+  {
+    "id": 11,
+    "ref": "1 Corinthians 13:4-7",
+    "nivText": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.",
+    "korText": "사랑은 오래 참고 사랑은 온유하며 시기하지 아니하며 사랑은 자랑하지 아니하며 교만하지 아니하며 무례히 행하지 아니하며 자기의 이익을 구하지 아니하며 성내지 아니하며 악한 것을 생각하지 아니하며 불의를 기뻐하지 아니하며 진리와 함께 기뻐하고 모든 것을 참으며 모든 것을 믿으며 모든 것을 바라면 모든 것을 견디느니라",
+    "grammarTips": "• patient / kind / proud: 2형식 형용사 보어 병렬\n• easily angered: 부사가 과거분사를 수식\n• not delight ... but rejoices: not A but B 구문"
+  },
+  {
+    "id": 12,
+    "ref": "Philippians 4:6-7",
+    "nivText": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+    "korText": "아무 것도 염려하지 말고 다만 모든 일에 기도와 간구로, 너희 구할 것을 감사함으로 하나님께 아뢰라 그리하면 모든 지각에 뛰어난 하나님의 평안이 그리스도 예수 안에서 너희 마음과 생각을 지키시리라",
+    "grammarTips": "• Do not be anxious ..., but present ...: ~하지 말고 ...하라\n• , which transcends ~: 계속적 용법의 관계대명사 (주격), 앞의 the peace of God 수식"
+  },
+  {
+    "id": 13,
+    "ref": "Matthew 6:33",
+    "nivText": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+    "korText": "그런즉 너희는 먼저 그의 나라와 그의 의를 구하라 그리하면 이 모든 것을 너희에게 더하시리라",
+    "grammarTips": "• Seek ..., and ...: 명령문 + and (~하라, 그러면 ~할 것이다)\n• will be given: 조동사가 포함된 수동태 (will + be + p.p.)"
+  },
+  {
+    "id": 14,
+    "ref": "Psalm 119:105",
+    "nivText": "Your word is a lamp for my feet, a light on my path.",
+    "korText": "주의 말씀은 내 발에 등이요 내 길에 빛이니이다",
+    "grammarTips": "• is a lamp ..., a light ...: 주격 보어 2개가 쉼표로 연결된 병렬구조\n• for my feet / on my path: 명사를 뒤에서 수식하는 전치사구"
+  },
+  {
+    "id": 15,
+    "ref": "Galatians 5:22-23",
+    "nivText": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.",
+    "korText": "오직 성령의 열매는 사랑과 희락과 화평과 오래 참음과 자비와 양선과 충성과 온유와 절제니 이같은 것을 금지할 법이 없느니라",
+    "grammarTips": "• The fruit (단수주어) is (단수동사): 뒤에 요소를 나열해도 주어는 단수(fruit)\n• 명사 9개의 병렬 연결 (A, B, C ... and Z)"
+  },
+  {
+    "id": 16,
+    "ref": "Ephesians 2:8-9",
+    "nivText": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.",
+    "korText": "너희는 그 은혜에 의하여 믿음으로 말미암아 구원을 받았으니 이것은 너희에게서 난 것이 아니요 하나님의 선물이라 행위에서 난 것이 아니니 이는 누구든지 자랑하지 못하게 함이라",
+    "grammarTips": "• It is by grace [that] you have been saved: It is ~ that 강조구문 (that 생략)\n• have been saved: 현재완료 수동태\n• so that no one can boast: so that + 주어 + can ... (~하기 위하여 / 그 결과 ~하다)"
+  },
+  {
+    "id": 17,
+    "ref": "2 Timothy 3:16",
+    "nivText": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness.",
+    "korText": "모든 성경은 하나님의 감동으로 된 것으로 교훈과 책망과 바르게 함과 의로 교육하기에 유익하니",
+    "grammarTips": "• God-breathed: 과거분사형 형용사\n• for teaching, rebuking, correcting and training: 전치사 for 뒤 동명사(-ing) 4개 병렬"
+  },
+  {
+    "id": 18,
+    "ref": "James 1:5",
+    "nivText": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.",
+    "korText": "너희 중에 누구든지 지혜가 부족하거든 모든 사람에게 후히 주시고 꾸짖지 아니하시는 하나님께 구하라 그리하면 주시리라",
+    "grammarTips": "• If any ... lacks ~: 조건절 (any는 단수 취급 lacks)\n• , who gives ~: 관계대명사 계속적 용법\n• without finding fault: 전치사 without + 동명사 finding"
+  },
+  {
+    "id": 19,
+    "ref": "1 John 1:9",
+    "nivText": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+    "korText": "만일 우리가 우리 죄를 자백하면 그는 미쁘시고 의로우사 우리 죄를 사하시며 우리를 모든 불의에서 깨끗하게 하실 것이요",
+    "grammarTips": "• forgive us(간접목적어) our sins(직접목적어): 4형식 문장\n• will forgive ... and purify ...: 조동사 will 뒤 동사원형 병렬구조"
+  },
+  {
+    "id": 20,
+    "ref": "Romans 12:2",
+    "nivText": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.",
+    "korText": "너희는 이 세대를 본받지 말고 오직 마음을 새롭게 함으로 변화를 받아 하나님의 선하시고 기뻐하시고 온전하신 뜻이 무엇인지 분별하도록 하라",
+    "grammarTips": "• Do not conform ..., but be transformed ...: not A but B 명령문\n• what God's will is: 선행사를 포함하는 관계대명사 what (~하는 것) 또는 간접의문문어순 (의문사+주어+동사)"
+  },
+  {
+    "id": 21,
+    "ref": "Isaiah 40:31",
+    "nivText": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+    "korText": "오직 여호와를 앙망하는 자는 새 힘을 얻으리니 독수리가 날개치며 올라감 같을 것이요 달음박질하여도 곤비하지 아니하겠고 걸어가도 피곤하지 아니하리로다",
+    "grammarTips": "• those who hope: ~하는 사람들 (주격 관계대명사 who)\n• grow weary / be faint: 2형식 상태변화/유지 동사 + 형용사 보어"
+  },
+  {
+    "id": 22,
+    "ref": "Psalm 37:4",
+    "nivText": "Take delight in the Lord, and he will give you the desires of your heart.",
+    "korText": "또 여호와를 기뻐하라 그가 네 마음의 소원을 네게 이루어 주시리로다",
+    "grammarTips": "• Take delight ..., and ...: 명령문 + and 구문 (~하라, 그러면 ~할 것이다)\n• give you(간접목적어) the desires(직접목적어): 4형식 수여동사 문장"
+  },
+  {
+    "id": 23,
+    "ref": "Matthew 11:28",
+    "nivText": "Come to me, all you who are weary and burdened, and I will give you rest.",
+    "korText": "수고하고 무거운 짐 진 자들아 다 내게로 오라 내가 너희를 쉬게 하리라",
+    "grammarTips": "• you who are weary and burdened: 주격관계대명사 who + 과거분사형 형용사(burdened: 짐을 진)\n• give you rest: 4형식 구조"
+  },
+  {
+    "id": 24,
+    "ref": "2 Corinthians 5:17",
+    "nivText": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+    "korText": "그런즉 누구든지 그리스도 안에 있으면 새로운 피조물이라 이전 것은 지나갔으니 보라 새 것이 되었도다",
+    "grammarTips": "• has come / has gone: 현재완료 시제 (완료/결과)\n• The old / The new: 'the + 형용사' 구조로 명사 역할 (옛것 / 새것)"
+  },
+  {
+    "id": 25,
+    "ref": "Colossians 3:23",
+    "nivText": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
+    "korText": "무슨 일을 하든지 마음을 다하여 주께 하듯 하고 사람에게 하듯 하지 말라",
+    "grammarTips": "• Whatever you do: 복합관계대명사 부사절 (=No matter what you do, 네가 무엇을 하든지 간에)\n• as working for ~: 접속사가 남은 분사구문 (as if you are working...)"
+  },
+  {
+    "id": 26,
+    "ref": "Psalm 139:14",
+    "nivText": "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.",
+    "korText": "내가 주께 감사하옴은 나를 지으심이 심히 기묘하심이라 주께서 하시는 일이 기이함을 내 영혼이 잘 아나이다",
+    "grammarTips": "• am fearfully and wonderfully made: 수동태(am made) 사이에 부사 2개가 수식\n• know that full well: know의 목적어로 쓰인 명사절 또는 지시대명사"
+  },
+  {
+    "id": 27,
+    "ref": "Deuteronomy 6:5",
+    "nivText": "Love the Lord your God with all your heart and with all your soul and with all your strength.",
+    "korText": "너는 마음을 다하고 뜻을 다하고 힘을 다하여 네 하나님 여호와를 사랑하라",
+    "grammarTips": "• Love ~: 동사원형 명령문\n• with all your ...: 수단/태도를 나타내는 전치사구 3개 병렬"
+  },
+  {
+    "id": 28,
+    "ref": "Proverbs 4:23",
+    "nivText": "Above all else, guard your heart, for everything you do flows from it.",
+    "korText": "모든 지킬 만한 것 중에 더욱 네 마음을 지키라 생명의 근원이 이에서 남이니라",
+    "grammarTips": "• everything [that] you do: 목적격 관계대명사 생략\n• for everything ... flows: 접속사 for (~왜냐하면 ~이기 때문이다)"
+  },
+  {
+    "id": 29,
+    "ref": "Matthew 28:19-20",
+    "nivText": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.",
+    "korText": "그러므로 너희는 가서 모든 민족을 제자로 삼아 아버지와 아들과 성령의 이름으로 세례를 베풀고 내가 너희에게 분부한 모든 것을 가르쳐 지키게 하라 볼지어다 내가 세상 끝날까지 너희와 항상 함께 있으리라 하시니라",
+    "grammarTips": "• baptizing ..., and teaching ...: 부대상황(동시동작)을 나타내는 분사구문\n• teaching them to obey: 5형식 (teach + 목적어 + to부정사)\n• everything [that] I have commanded: 관계대명사 생략 및 현재완료 시제"
+  },
+  {
+    "id": 30,
+    "ref": "Hebrews 11:1",
+    "nivText": "Now faith is confidence in what we hope for and assurance about what we do not see.",
+    "korText": "믿음은 바라는 것들의 실상이요 보이지 않는 것들의 증거니",
+    "grammarTips": "• in what we hope for: 전치사 in의 목적어로 쓰인 관계대명사절 what (~하는 것)\n• about what we do not see: 전치사 about의 목적어로 쓰인 관계대명사절 what"
+  },
+  {
+    "id": 31,
+    "ref": "Psalm 100:5",
+    "nivText": "For the Lord is good and his love endures forever; his faithfulness continues through all generations.",
+    "korText": "여호와는 선하시니 그의 인자하심이 영원하고 그의 성실하심이 대대에 이르리로다",
+    "grammarTips": "• For ~: 이유를 나타내는 접속사 (왜냐하면 ~이므로)\n• 세 개의 독립절이 세미콜론(;)과 접속사로 연결된 병렬구조"
+  },
+  {
+    "id": 32,
+    "ref": "Numbers 6:24-26",
+    "nivText": "The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace.",
+    "korText": "여호와는 네게 복을 주시고 너를 지키시기를 원하며 여호와는 그의 얼굴을 네게 비추사 은혜 베푸시기를 원하며 여호와는 그 얼굴을 네게로 향하여 드사 평강 주시기를 원하노라 할지니라 하라",
+    "grammarTips": "• The Lord bless / keep / make: 기원문 표현으로 주어 뒤 동사원형 사용 (May 생략)\n• make his face shine: 사역동사(make) + 목적어 + 원형가정(shine)"
+  },
+  {
+    "id": 33,
+    "ref": "Isaiah 26:3",
+    "nivText": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+    "korText": "주께서 심지가 견고한 자를 평강에 평강으로 지키시리니 이는 그가 주를 신뢰함이니이다",
+    "grammarTips": "• those whose minds are steadfast: 선행사 those를 수식하는 소유격 관계대명사 whose (그들의 마음이 확고한 사람들)\n• keep [those...] in perfect peace: 목적어가 길어 전치사구와 순서가 바뀜"
+  },
+  {
+    "id": 34,
+    "ref": "Galatians 2:20",
+    "nivText": "I have been crucified with Christ and I no longer live, but Christ lives in me.",
+    "korText": "내가 그리스도와 함께 십자가에 못 박혔나니 그런즉 이제는 내가 사는 것이 아니요 오직 내 안에 그리스도께서 사시는 것이라 이제 내가 육체 가운데 사는 것은 나를 사랑하사 나를 위하여 자기 자신을 버리신 하나님의 아들을 믿는 믿음 안에서 사는 것이라",
+    "grammarTips": "• have been crucified: 현재완료 수동태 (함께 십자가에 못 박혔다)\n• no longer live: 부사구 no longer (더 이상 ~않다)"
+  },
+  {
+    "id": 35,
+    "ref": "Romans 5:8",
+    "nivText": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+    "korText": "우리가 아직 죄인 되었을 때에 그리스도께서 우리를 위하여 죽으심으로 하나님께서 우리에 대한 자기의 사랑을 확증하셨느니라",
+    "grammarTips": "• in this : : 뒤에 나오는 내용 전체를 가리키는 지시대명사\n• While we were still sinners: 접속사 While (~였을 때 / ~하는 동안)"
+  },
+  {
+    "id": 36,
+    "ref": "1 Peter 5:7",
+    "nivText": "Cast all your anxiety on him because he cares for you.",
+    "korText": "너희 염려를 다 주께 맡기라 이는 그가 너희를 돌보심이라",
+    "grammarTips": "• Cast ~: 동사원형 명령문 (던지라/맡기라)\n• because he cares for you: 이유를 나타내는 접속사절"
+  },
+  {
+    "id": 37,
+    "ref": "Ephesians 4:32",
+    "nivText": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+    "korText": "서로 친절하게 하며 불쌍히 여기며 서로 용서하기를 하나님이 그리스도 안에서 너희를 용서하심과 같이 하라",
+    "grammarTips": "• forgiving each other: 부대상황을 나타내는 분사구문 (~하며 / 용서하면서)\n• just as God forgave you: 접속사 just as (~했던 것처럼)"
+  },
+  {
+    "id": 38,
+    "ref": "John 14:6",
+    "nivText": "Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.”",
+    "korText": "예수께서 이르시되 내가 곧 길이요 진리요 생명이니 나로 말미암지 않고는 아버지께로 올 자가 없느니라",
+    "grammarTips": "• No one comes: 부정주어(No one) + 단수동사(comes)\n• except through me: 전치사 except (~를 제외하고는)"
+  },
+  {
+    "id": 39,
+    "ref": "Psalm 23:4",
+    "nivText": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+    "korText": "내가 사망의 음침한 골짜기로 다닐지라도 해를 두려워하지 않을 것은 주께서 나와 함께 하심이라 주의 지팡이와 막대기가 나를 안위하시나이다",
+    "grammarTips": "• Even though I walk ~: 양보 접속사 (비록 ~일지라도)\n• the darkest: 형용사 dark의 최상급\n• fear no evil: no는 부정 형용사 (=will not fear any evil)"
+  },
+  {
+    "id": 40,
+    "ref": "2 Corinthians 12:9",
+    "nivText": "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.”",
+    "korText": "나에게 이르시기를 내 은혜가 네게 족하도다 이는 내 능력이 약한 데서 온전하여짐이라 하신지라 그러므로 도리어 크게 기뻐함으로 나의 여러 약한 것들에 대하여 자랑하리니 이는 그리스도의 능력이 내게 머물게 하려 함이라",
+    "grammarTips": "• is made perfect: 5형식 문장 (make + O + OC[형용사])의 수동태 구조 (be made + 형용사보어)"
+  },
+  {
+    "id": 41,
+    "ref": "Proverbs 18:10",
+    "nivText": "The name of the Lord is a fortified tower; the righteous run to it and are safe.",
+    "korText": "여호와의 이름은 견고한 망대라 의인은 그리로 달려가서 안전함을 얻느니라",
+    "grammarTips": "• fortified tower: 과거분사 fortified가 명사 tower 수식 (견고해진 타워)\n• the righteous: the + 형용사 = 의로운 사람들 (복수 취급하여 동사 run 사용)"
+  },
+  {
+    "id": 42,
+    "ref": "Philippians 4:8",
+    "nivText": "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.",
+    "korText": "끝으로 형제들아 무엇에든지 참되며 무엇에든지 경건하며 무엇에든지 옳으며 무엇에든지 정결하며 무엇에든지 사랑받을 만하며 무엇에든지 칭찬받을 만하며 무슨 덕이 있든지 무슨 기림이 있든지 이것들을 생각하라",
+    "grammarTips": "• whatever is true/noble...: 복합관계대명사절 나열 (~한 무엇이든지)\n• think about such things: 주절의 명령문"
+  },
+  {
+    "id": 43,
+    "ref": "1 Thessalonians 5:16-18",
+    "nivText": "Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus.",
+    "korText": "항상 기뻐하라 쉬지 말고 기도하라 범사에 감사하라 이것이 그리스도 예수 안에서 너희를 향하신 하나님의 뜻이니라",
+    "grammarTips": "• Rejoice, pray, give thanks: 명령문 3개의 병렬구조\n• always, continually: 동사를 수식하는 부사"
+  },
+  {
+    "id": 44,
+    "ref": "Psalm 118:24",
+    "nivText": "This is the day the Lord has made; let us rejoice and be glad in it.",
+    "korText": "이 날은 여호와께서 정하신 것이라 이 날에 우리가 즐거워하고 기뻐하리로다",
+    "grammarTips": "• the day [that/which] the Lord has made: 목적격 관계대명사 생략 및 현재완료 시제\n• let us rejoice and be glad: 청유문 (let us + 동사원형 병렬)"
+  },
+  {
+    "id": 45,
+    "ref": "Isaiah 55:8-9",
+    "nivText": "For my thoughts are not your thoughts, neither are your ways my ways,” declares the Lord.",
+    "korText": "이는 내 생각이 너희의 생각과 다르며 내 길은 너희의 길과 다름이니라 여호와의 말씀이니라 이는 하늘이 땅보다 높음 같이 내 길은 너희의 길보다 높으며 내 생각은 너희의 생각보다 높음이니라",
+    "grammarTips": "• neither are your ways my ways: 부정어 접속사 neither가 문두에 올 때 '동사(are) + 주어(your ways)'로 도치됨"
+  },
+  {
+    "id": 46,
+    "ref": "Romans 10:9",
+    "nivText": "If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.",
+    "korText": "네가 만일 네 입으로 예수를 주라 인정하며 또 하나님께서 그를 죽은 자 가운데서 살리신 것을 네 마음에 믿으면 구원을 받으리라",
+    "grammarTips": "• If you declare ... and believe ...: 조건절 동사 병렬\n• believe that God raised ~: believe의 목적어절 접속사 that\n• will be saved: 주절의 미래 수동태"
+  },
+  {
+    "id": 47,
+    "ref": "James 4:7",
+    "nivText": "Submit yourselves, then, to God. Resist the devil, and he will flee from you.",
+    "korText": "그런즉 너희는 하나님께 복종할지어다 마귀를 대적하라 그리하면 너희를 피하리라",
+    "grammarTips": "• Submit yourselves: 주어(you 생략)와 목적어가 같으므로 재귀대명사 yourselves 사용\n• Resist ..., and he will flee ...: 명령문 + and 구문"
+  },
+  {
+    "id": 48,
+    "ref": "1 John 4:19",
+    "nivText": "We love because he first loved us.",
+    "korText": "우리가 사랑함은 그가 먼저 우리를 사랑하셨음이라",
+    "grammarTips": "• because he first loved us: 이유를 나타내는 접속사절\n• first: 동사 loved를 수식하는 부사(먼저/먼저 사랑하셨다)"
+  },
+  {
+    "id": 49,
+    "ref": "Colossians 4:2",
+    "nivText": "Devote yourselves to prayer, being watchful and thankful.",
+    "korText": "기도를 계속하고 기도에 감사함으로 깨어 있으라",
+    "grammarTips": "• Devote yourselves to N: ~에 전념하라 (재귀대명사 + 전치사 to)\n• being watchful and thankful: 상태를 나타내는 분사구문 (being 생략 가능)"
+  },
+  {
+    "id": 50,
+    "ref": "Psalm 121:1-2",
+    "nivText": "I lift up my eyes to the mountains—where does my help come from? My help comes from the Lord, the Maker of heaven and earth.",
+    "korText": "내가 산을 향하여 눈을 들리라 나의 도움이 어디서 올까 나의 도움은 천지를 지으신 여호와에게서로다",
+    "grammarTips": "• where does my help come from?: 의문사(where) + 조동사(does) + 주어(my help) + 동사원형(come)\n• the Lord, the Maker ...: 명사 동격 구조"
+  },
+  {
+    "id": 51,
+    "ref": "Matthew 5:16",
+    "nivText": "In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.",
+    "korText": "이같이 너희 빛이 사람 앞에 비치게 하여 그들로 너희 착한 행실을 보고 하늘에 계신 너희 아버지께 영광을 돌리게 하라",
+    "grammarTips": "• let your light shine: 사역동사(let) + 목적어(your light) + 동사원형(shine)\n• that they may see ... and glorify ...: 목적을 나타내는 접속사절 (~하기 위하여)"
+  },
+  {
+    "id": 52,
+    "ref": "2 Timothy 1:7",
+    "nivText": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.",
+    "korText": "하나님이 우리에게 주신 것은 두려워하는 마음이 아니요 오직 능력과 사랑과 절제하는 마음이니",
+    "grammarTips": "• the Spirit [that/which] God gave us: 목적격 관계대명사 생략\n• does not make us timid, but gives us ...: not A but B 구문\n• make us timid (5형식), gives us power (4형식)"
+  },
+  {
+    "id": 53,
+    "ref": "Hebrews 13:8",
+    "nivText": "Jesus Christ is the same yesterday and today and forever.",
+    "korText": "예수 그리스도는 어제나 오늘이나 영원토록 동일하시니라",
+    "grammarTips": "• is the same: 2형식 문장 (the same은 주격보어)\n• yesterday and today and forever: 시간 부사어구 병렬"
+  },
+  {
+    "id": 54,
+    "ref": "Proverbs 16:3",
+    "nivText": "Commit to the Lord whatever you do, and he will establish your plans.",
+    "korText": "너의 행사를 여호와께 맡기라 그리하면 네가 경영하는 것이 이루어지리라",
+    "grammarTips": "• whatever you do: Commit의 목적어로 쓰인 복합관계대명사절 (~하는 것은 무엇이든지)\n• Commit ..., and ...: 명령문 + and 구문"
+  },
+  {
+    "id": 55,
+    "ref": "John 15:5",
+    "nivText": "I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.",
+    "korText": "나는 포도나무요 너희는 가지라 그가 내 안에, 내가 그 안에 거하면 사람이 열매를 많이 맺나니 나를 떠나서는 너희가 아무 것도 할 수 없음이라",
+    "grammarTips": "• If you remain in me and I [remain] in you: 반복 동사 remain 생략\n• apart from me: 전치사구 (~와 떨어져서)\n• can do nothing: 부정대명사 nothing"
+  },
+  {
+    "id": 56,
+    "ref": "Ephesians 6:10",
+    "nivText": "Finally, be strong in the Lord and in his mighty power.",
+    "korText": "끝으로 너희가 주 안에서와 그 힘의 능력으로 강건하여지고",
+    "grammarTips": "• be strong: be동사 명령문\n• in the Lord and in his mighty power: 전치사구 2개 병렬"
+  },
+  {
+    "id": 57,
+    "ref": "Psalm 56:3",
+    "nivText": "When I am afraid, I put my trust in you.",
+    "korText": "내가 두려워하는 날에는 내가 주를 의뢰하리이다",
+    "grammarTips": "• When I am afraid: 시간을 나타내는 접속사절\n• put my trust in ~: ~를 신뢰하다 (동사구 표현)"
+  },
+  {
+    "id": 58,
+    "ref": "Romans 15:13",
+    "nivText": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.",
+    "korText": "소망의 하나님이 모든 기쁨과 평강을 믿음 안에서 너희에게 충만하게 하사 성령의 능력으로 소망이 넘치게 하시기를 원하노라",
+    "grammarTips": "• May the God of hope fill you ...: 기원문 표현 (~하시기를 원하노라)\n• as you trust: 양태/시간 접속사 as (~함에 따라 / ~할 때)\n• so that you may overflow: 목적 접속사 (~하도록)"
+  },
+  {
+    "id": 59,
+    "ref": "1 Corinthians 10:13",
+    "nivText": "No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear.",
+    "korText": "사람이 감당할 시험 밖에는 너희가 당한 것이 없나니 오직 하나님은 미쁘사 너희가 감당하지 못할 시험 당함을 허락하지 아니하시고 시험 당할 즈음에 또한 피할 길을 내사 너희로 능히 감당하게 하시느니라",
+    "grammarTips": "• has overtaken: 현재완료 시제\n• except what is common: 전치사 except + 관계대명사 what절\n• let you be tempted: 사역동사 let + 목적어 + 수동형 동사원형(be tempted)\n• beyond what you can bear: 전치사 beyond + 관계대명사절 what"
+  },
+  {
+    "id": 60,
+    "ref": "Revelation 3:20",
+    "nivText": "Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with me.",
+    "korText": "볼지어다 내가 문 밖에 서서 두드리노니 누구든지 내 음성을 듣고 문을 열면 내가 그에게로 들어가 그와 더불어 먹고 그는 나와 더불어 먹으리라",
+    "grammarTips": "• Here I am!: 장소 부사 구문 (대명사 주어라 도치 없음)\n• hears ... and opens ...: 조건절 단수 동사 병렬\n• and they [will eat] with me: 성별 중립 단수/일반 주어 대명사 they 활용 및 동사 생략"
+  }
+]
